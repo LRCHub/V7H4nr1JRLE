@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "アセンション",
+  "base_artist": "彩音、いとうかなこ",
+  "createdAt": "2025-12-01T10:50:56.788438Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アセンション",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_01_アセンション_いとう_かなこ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アセンション",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_02_アセンション_いとう_かなこ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Ascension feat. Vince Staples",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_03_Ascension_feat._Vince_Staples_いとう_かなこ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Ascension",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_04_Ascension_いとう_かなこ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Ascension",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_05_Ascension_いとう_かなこ.txt"
+    }
+  ]
+}
